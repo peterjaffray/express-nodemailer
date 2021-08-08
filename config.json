@@ -1,8 +1,1 @@
-{
-  "region": "ca-central-1", 
-  "host": "email-smtp.ca-central-1.amazonaws.com",
-  "username": "AKIASXP4FG5HA3G7WDNE",
-  "password": "BHc1GEWOJ85dsE02JrN4PPdaTaNShkfh+ejrsoSOW4Wn",
-  "from": "system+auth@choice.marketing",
-  "to": "dev@choice.marketing"
-}
+
